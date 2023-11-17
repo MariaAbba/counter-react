@@ -21,7 +21,7 @@ function App() {
           - Minus
         </button>
         <button onClick={onClickPlus} className="plus">
-           jdhff +
+          Plus +
         </button>
       </div>
     </div>
